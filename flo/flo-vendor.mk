@@ -93,6 +93,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/flo/proprietary/lib/libsensor_user_cal.so:system/lib/libsensor_user_cal.so \
     vendor/asus/flo/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/asus/flo/proprietary/lib/libxml.so:system/lib/libxml.so \
+    vendor/asus/flo/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
+    vendor/asus/flo/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
+    vendor/asus/flo/proprietary/lib/libldacBT_enc.so:system/lib/libldacBT_enc.so \
     vendor/asus/flo/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/asus/flo/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
     vendor/asus/flo/proprietary/vendor/firmware/bcm2079x-b5_firmware.ncd:system/vendor/firmware/bcm2079x-b5_firmware.ncd \
@@ -166,7 +169,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/flo/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/asus/flo/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/asus/flo/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
-    vendor/asus/flo/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/asus/flo/proprietary/vendor/lib/libgemini.so:system/vendor/lib/libgemini.so \
     vendor/asus/flo/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/asus/flo/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
